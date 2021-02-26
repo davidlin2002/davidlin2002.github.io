@@ -1,7 +1,7 @@
 # davidlin2002.github.io
 
 ## 哈囉
-```
+```C
 #include <stdio.h>
 int main()
 {
