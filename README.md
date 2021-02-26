@@ -1,7 +1,13 @@
 # davidlin2002.github.io
 
 ## 哈囉
-
+```
+#include <stdio.h>
+int main
+{
+  printf("Hello");
+}
+```
 ## 自我介紹
 只是一個無聊的大學生
 
