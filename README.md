@@ -3,7 +3,7 @@
 ## 哈囉
 ```
 #include <stdio.h>
-int main
+int main()
 {
   printf("Hello");
   return0;
