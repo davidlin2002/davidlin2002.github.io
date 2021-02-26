@@ -6,6 +6,7 @@
 int main
 {
   printf("Hello");
+  return0;
 }
 ```
 ## 自我介紹
